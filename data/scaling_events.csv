@@ -1,0 +1,4 @@
+timestamp,cpu_usage,memory_usage,predicted_cpu,workload,decision,instances_before,instances_after,cost_before,cost_after,savings,savings_percentage
+2026-10-04 23:06:56,40.3,88.3,32.97,LOW,MAINTAIN,2,2,10.0,10.0,0.0,0.0
+2026-10-16 17:36:44,23.8,88.0,27.79,LOW,SCALE UP,2,3,10.0,15.0,-5.0,-50.0
+2026-10-16 17:45:58,23.8,88.0,27.79,LOW,SCALE UP,2,3,10.0,15.0,-5.0,-50.0
